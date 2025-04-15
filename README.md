@@ -147,4 +147,5 @@ For questions, bug reports, or general inquiries, reach out to Oblivion Developm
 
 ---
 
-**Oblivion Development & Hosting (OD&H) - Delivering Secure, Reliable, and Innovative Tech Solutions.**
+Developed with ❤️ by [@ivanbg_2004](https://github.com/ivanbg2004) and remastered by [Oblivion Development & Hosting](https://odh.ivan-vcard.xyz) 6 years later.
+Oblivion Development & Hosting is a Linux-first company, but we reluctantly support other platforms.
